@@ -1,0 +1,7 @@
+/* Define el color de fondo de la página */
+body {
+    background-color: #E574A1; /* Puedes usar cualquier color en formato hexadecimal, RGB, HSL, nombre de color, etc. */
+/* Centra el título de la página */
+.titulo {
+    text-align: center;
+}
